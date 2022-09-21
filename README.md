@@ -21,3 +21,7 @@
 ![image](https://user-images.githubusercontent.com/113407411/191408312-aac29ca7-2442-4f74-8cdc-9ce7ca88547c.png)
 ![image](https://user-images.githubusercontent.com/113407411/191408335-6c2743e7-8679-451b-b3ba-13f7b452f4d8.png)
 ![image](https://user-images.githubusercontent.com/113407411/191408349-cb20dfd8-194b-4742-b0c0-e6b82dc4656f.png)
+## experiment-6
+[experiment-6 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment%206)
+![image](https://user-images.githubusercontent.com/113407411/191306860-eb8b022a-735c-4a60-8379-268096e9653e.png)
+![image](https://user-images.githubusercontent.com/113407411/191306951-9527f60d-e439-4102-8c30-39059d037d52.png)
