@@ -9,3 +9,9 @@
 ## experiment-3
 [experiment-3 quieries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment%203)
 ![image](https://user-images.githubusercontent.com/113226389/191302018-1464930d-d166-4850-abda-f15c4fb9b0fd.png) 
+## experiment-4
+[experiment-4 quieries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment%204)
+![image](https://user-images.githubusercontent.com/113226389/191304211-b66bcd3a-a5e9-4e6a-b959-18095d8ff047.png)
+![image](https://user-images.githubusercontent.com/113226389/191304470-3552862c-d3af-4133-a066-af70808591bc.png)
+![image](https://user-images.githubusercontent.com/113226389/191304633-5a00090b-04d1-4faf-ade0-6adaeb802c4c.png)
+![image](https://user-images.githubusercontent.com/113226389/191304766-3bd7958f-d128-4809-a6ce-656debc068ab.png)
