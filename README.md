@@ -72,6 +72,10 @@
 ## experiment-21
 [experiment-21 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment-21)
 ![image](https://user-images.githubusercontent.com/113370780/191817003-e17e3b3b-7e02-4df2-a55a-342241a9784f.png)
+## experiment-22
+[experiment-22 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment-22)
+![image](https://user-images.githubusercontent.com/113370780/191817465-56f16489-4200-4b89-9efa-0c2a8117052d.png)
+
 
 
 
