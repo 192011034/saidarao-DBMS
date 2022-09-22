@@ -43,6 +43,11 @@
 [experiment-11](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-11)
 ![image](https://user-images.githubusercontent.com/113370780/191657021-f09baeb1-7bb0-4eb5-b853-381ce53477a3.png)
 ![image](https://user-images.githubusercontent.com/113370780/191657253-5ac4a21e-8e9f-4b32-9358-c05a5fb65f1e.png)
+## experiment-12
+[experiment-12](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-12)
+![image](https://user-images.githubusercontent.com/113370780/191657588-bc6ca585-d43b-471c-bb00-216bfe935bf3.png)
+![image](https://user-images.githubusercontent.com/113370780/191657635-c573bbdf-dc9b-419e-8f2a-444a01e95209.png)
+
 
 
 
