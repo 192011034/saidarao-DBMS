@@ -50,6 +50,9 @@
 ## experiment-13
 [experiment-13 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-13)
 ![image](https://user-images.githubusercontent.com/113370780/191657929-21359098-f537-4f22-a150-f5a4692e56b5.png)
+## experiment-14
+[experiemnt-14 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment-14)
+![image](https://user-images.githubusercontent.com/113370780/191817960-dca1983e-fc2b-4db2-9fad-6e2166ff0163.png)
 ## experiment-15
 [experiment-15 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-15)
 ![image](https://user-images.githubusercontent.com/113370780/191658169-33428d4d-84d0-469c-8e0e-8f07278542f1.png)
@@ -75,6 +78,7 @@
 ## experiment-22
 [experiment-22 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment-22)
 ![image](https://user-images.githubusercontent.com/113370780/191817465-56f16489-4200-4b89-9efa-0c2a8117052d.png)
+
 
 
 
