@@ -31,4 +31,6 @@
 ## experiment-8
 [experiment-8 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment%208)
 ![image](https://user-images.githubusercontent.com/113370780/191654738-2151bad8-2fef-43c7-974d-b6dbeefb7f02.png)
+## experiment-9
+[experiment-9 quiries]
 
