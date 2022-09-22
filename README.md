@@ -28,3 +28,7 @@
 ## experiment-7
 [experiment-7 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment%207)
 ![image](https://user-images.githubusercontent.com/113407411/191306380-f00189a0-b56f-4fd7-b84f-1e6fa1ea88a8.png)
+## experiment-8
+[experiment-8 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment%208)
+![image](https://user-images.githubusercontent.com/113370780/191654738-2151bad8-2fef-43c7-974d-b6dbeefb7f02.png)
+
