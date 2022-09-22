@@ -34,6 +34,9 @@
 ## experiment-9
 [experiment-9 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/experiment%209)
 ![image](https://user-images.githubusercontent.com/113370780/191656168-cd5a1247-504e-4126-b1ef-e9747aea51b7.png)
+![image](https://user-images.githubusercontent.com/113370780/191656252-19c6672c-81c5-4291-99b6-d476078b1a35.png)
+![image](https://user-images.githubusercontent.com/113370780/191656295-3b73f7b1-d024-40dd-bc11-df4a8597fd19.png)
+
 
 
 
