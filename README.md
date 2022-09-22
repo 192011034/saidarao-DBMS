@@ -60,5 +60,9 @@
 ## experiment-17
 [experiment-17 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment-17)
 ![image](https://user-images.githubusercontent.com/113370780/191708932-d4d2ac85-9076-472e-9cd0-35432acf633e.png)
+## experiment-18
+[experiment-18 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment%2018)
+![image](https://user-images.githubusercontent.com/113370780/191709807-3c167f04-38f3-45df-8f88-2e96c1fe1eec.png)
+
 
 
