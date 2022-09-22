@@ -40,22 +40,25 @@
 [experiment-10 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-10)
 ![image](https://user-images.githubusercontent.com/113370780/191656676-30c70eaa-3fe4-4720-81f5-cb3df8c6f630.png)
 ## experiment-11
-[experiment-11](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-11)
+[experiment-11 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-11)
 ![image](https://user-images.githubusercontent.com/113370780/191657021-f09baeb1-7bb0-4eb5-b853-381ce53477a3.png)
 ![image](https://user-images.githubusercontent.com/113370780/191657253-5ac4a21e-8e9f-4b32-9358-c05a5fb65f1e.png)
 ## experiment-12
-[experiment-12](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-12)
+[experiment-12 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-12)
 ![image](https://user-images.githubusercontent.com/113370780/191657588-bc6ca585-d43b-471c-bb00-216bfe935bf3.png)
 ![image](https://user-images.githubusercontent.com/113370780/191657635-c573bbdf-dc9b-419e-8f2a-444a01e95209.png)
 ## experiment-13
-[experiment-13](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-13)
+[experiment-13 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-13)
 ![image](https://user-images.githubusercontent.com/113370780/191657929-21359098-f537-4f22-a150-f5a4692e56b5.png)
 ## experiment-15
-[experiment-15](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-15)
+[experiment-15 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/experiment-15)
 ![image](https://user-images.githubusercontent.com/113370780/191658169-33428d4d-84d0-469c-8e0e-8f07278542f1.png)
 ## experiment-16
-[experiment-16](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment-16)
+[experiment-16 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment-16)
 ![image](https://user-images.githubusercontent.com/113370780/191707657-e5b747a6-86bb-409e-8985-69342606cebe.png)
 ![image](https://user-images.githubusercontent.com/113370780/191708050-a8943858-53c1-447f-99c1-b3f39d6b4b06.png)
+## experiment-17
+[experiment-17 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment-17)
+![image](https://user-images.githubusercontent.com/113370780/191708932-d4d2ac85-9076-472e-9cd0-35432acf633e.png)
 
 
