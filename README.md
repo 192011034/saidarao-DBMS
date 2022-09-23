@@ -66,12 +66,6 @@
 ## experiment-18
 [experiment-18 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment%2018)
 ![image](https://user-images.githubusercontent.com/113370780/191709807-3c167f04-38f3-45df-8f88-2e96c1fe1eec.png)
-## experiment-19
-[experiment-19 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment-19)
-![image](https://user-images.githubusercontent.com/113370780/191815775-091a001b-695d-4b5a-8d1a-906359a090d3.png)
-## experiment-20
-[experiment-20 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment-20)
-![image](https://user-images.githubusercontent.com/113370780/191816552-008bc0cd-6b96-4a51-925a-a52c4d7b080a.png)
 ## experiment-21
 [experiment-21 quiries](https://github.com/192011034/saidarao-DBMS/blob/main/Experiment-21)
 ![image](https://user-images.githubusercontent.com/113370780/191817003-e17e3b3b-7e02-4df2-a55a-342241a9784f.png)
